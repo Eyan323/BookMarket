@@ -21,5 +21,3 @@ public class ResourceConfig implements WebMvcConfigurer {
 	}
 	
 }
-
-//도메인
